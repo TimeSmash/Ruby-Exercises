@@ -2,7 +2,7 @@ In the above example, we have several applicants who have attempted to take a ba
 list of people who failed the exam for some reason. The criteria for passing is getting a grade of 65 or above. 
 You have been given the names and grades of four applicants. Publish the list of who failed.
 
-[u]Information you need (applicant names and grades):[/u]
+[u Information you need (applicant names and grades):]
 
 Alma, with a grade of 99
 Jill, with a grade of 80
